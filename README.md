@@ -19,3 +19,5 @@
 •	评估指标：衡量你解决方案的标准
 •	设计大纲：你的解决方案如何实现，如何获取结果
 
+
+https://github.com/nd009/capstone/tree/master/human_or_robot
